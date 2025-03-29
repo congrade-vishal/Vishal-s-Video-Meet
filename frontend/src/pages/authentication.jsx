@@ -65,7 +65,7 @@ export default function Authentication() {
           md={7}
           sx={{
             backgroundImage:
-              "url(https://gettalkative.com/info/what-is-video-chat)",
+              "url(https://plus.unsplash.com/premium_photo-1661641659346-ed371630a6e7?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)",
             backgroundRepeat: "no-repeat",
             backgroundColor: (t) =>
               t.palette.mode === "light"
