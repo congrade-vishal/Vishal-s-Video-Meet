@@ -49,7 +49,7 @@ import { createServer } from "node:http";
 import { Server } from "socket.io";
 
 import mongoose from "mongoose";
-import { connectToSocket } from "./controllers/socketManager.js";
+import { connectToSocket } from "./Controllers/socketManager.js";
 
 import cors from "cors";
 import userRoutes from "./Routes/users.routes.js";
